@@ -8,6 +8,6 @@ abstract: |
 bibliography: escoriaza.bib
 ---
 
-
+![El palacete del Vizconde, en el Paseo del Salón. Foto propia](palacete-escoriaza-vertical-números.jpg)
 
 ## Bibliografía

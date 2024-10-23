@@ -1,0 +1,13 @@
+---
+title: "Vocabulario arquitectónico del palacete de Escoriaza"
+author: "JJ Merelo"
+date: "`r Sys.Date()`"
+output: pdf_document
+abstract: |
+  El palacete de Escoriaza es una construcción de los años 20 en estilo neonazarí, con un vocabulario tomado de la Alhambra de la que era arquitecto conservador su proyectista, Modesto Cendoya.
+bibliography: escoriaza.bib
+---
+
+
+
+## Bibliografía

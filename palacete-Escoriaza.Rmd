@@ -2,12 +2,26 @@
 title: "Vocabulario arquitectónico del palacete de Escoriaza"
 author: "JJ Merelo"
 date: "`r Sys.Date()`"
-output: pdf_document
+output: 
+  pdf_document:
+    keep_tex: yes
 abstract: |
-  El palacete de Escoriaza es una construcción de los años 20 en estilo neonazarí, con un vocabulario tomado de la Alhambra de la que era arquitecto conservador su proyectista, Modesto Cendoya.
+  El palacete de Escoriaza es una construcción de principios del siglo XX en estilo neonazarí, con un vocabulario tomado de la Alhambra de la que era arquitecto conservador su proyectista, Modesto Cendoya.
 bibliography: escoriaza.bib
 ---
 
 ![El palacete del Vizconde, en el Paseo del Salón. Foto propia](palacete-escoriaza-vertical-números.jpg)
+
+## Introducción
+
+Los comienzos del siglo XX en Granada se caracterizaron, en lo económico, por la gran expansión económica debida sobre todo al cultivo de la caña de azúcar y la implantación de la industria azucarera e infraestructura eléctrica y de transporte relacionada con la misma [@granadaXX] y en lo político por el *lachiquismo* [@osuna2015protesta], caciquismo organizado y dirigido desde Juan Ramón Lachica Mingo, enriquecido precisamente con el cultivo del azúcar y perteneciente (nominalmente) al partido liberal.
+
+En lo primero debemos enmarcar la llegada a Granada de Nicolás de Escoriaza y Fabro [@escoriaza], que en 1903 funda los Tranvías Eléctricos de Granada [@martinez2000gregorio] que comienzan a funcionar el año siguiente. Escoriaza, nombrado vizconde en 1919 (de donde sale el nombre de "Palacio del Vizconde" que también tiene este edificio) tiene negocios con diferentes empresas belgas y suizas, y por ello lo nombran comisario del pabellón español de la exposición universal de Bruselas en 1910.
+
+En lo segundo podemos enmarcar la presencia de Modesto Cendoya [@Cendoya]. Tras ser destituido como arquitecto provincial por su negligencia en la reconstrucción tras el terremoto de Alhama, es nombrado arquitecto conservador de la Alhambra en 1907, posiblemente en el marco del lachiquismo [@lopera1977decision], puesto que ocuparía hasta su cese en 1923. Desde 1901 desarrolló su labor en Granada y a él se deben el Hotel Alhambra Palace y la Azucarera San Isidro. En 1910 se le encargó una copia del patio de los leones para el pabellón de España en la exposición de Bruselas, que comisariaba Nicolás de Escoriaza, posiblemente por él mismo.
+
+Previamente, en 1905, se le había encargado el proyecto de este palacete [@iaph]. Como muchas de las otras obras de Cendoya, sigue el estilo regionalista/historicista, con elementos en este caso nazaríes y mudéjares. La vivienda ha sufrido diferentes reformas, la última de ellas en 1989. Es privada y no se puede visitar; se menciona que son apartamentos turísticos, pero no he encontrado ninguna referencia en ninguna plataforma de ese tipo, así que no podemos saber con exactitud el interior como está decorado ni tomar una foto de detalle desde más cerca. Es un edificio catalogado en el Instituto Andaluz de Patrimonio Histórico como parte de la denominación "Conjunto de palacetes del Paseo de la Bomba" [@iaph], pero no consta ningún tipo de protección.
+
+
 
 ## Bibliografía

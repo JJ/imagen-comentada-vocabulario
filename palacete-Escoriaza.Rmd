@@ -22,6 +22,19 @@ En lo segundo podemos enmarcar la presencia de Modesto Cendoya [@Cendoya]. Tras 
 
 Previamente, en 1905, se le había encargado el proyecto de este palacete [@iaph]. Como muchas de las otras obras de Cendoya, sigue el estilo regionalista/historicista, con elementos en este caso nazaríes y mudéjares. La vivienda ha sufrido diferentes reformas, la última de ellas en 1989. Es privada y no se puede visitar; se menciona que son apartamentos turísticos, pero no he encontrado ninguna referencia en ninguna plataforma de ese tipo, así que no podemos saber con exactitud el interior como está decorado ni tomar una foto de detalle desde más cerca. Es un edificio catalogado en el Instituto Andaluz de Patrimonio Histórico como parte de la denominación "Conjunto de palacetes del Paseo de la Bomba" [@iaph], pero no consta ningún tipo de protección.
 
+## Vocabulario arquitectónico
+
+La casa presenta un aspecto general de palacio o vivienda con varios cuerpos, cinco aparentemente desde la vista satélite de Google maps, con jardines alrededor y un torreón almenado en una de las esquinas. La fachada principal se abrehacia la cuesta Escoriaza (nombrada por el propietario inicial del inmueble), y la fachada de entrada real se abre al Paseo de la Bomba con el número 8. Tiene tres pisos, bajo y semisótano, aunque desde esta imagen sólo se pueden apreciar los tres pisos. 
+
+Comenzaremos por los elementos singulares para luego pasar a elementos que aparecen varias veces.
+
+### 4: Escudo
+
+El escudo tiene un yelmo, lo que correspondería a algún tipo de hidalguía. Y aunque no está muy claro, presenta una torre centrada. Dado que tras su construcción fue adquirido por la familia Moreno Agrela (también propietaria del palacio de los patos), duques de Agrela, es posible que sea el escudo de la familia Moreno, "una torre de gules en campo de oro, con dos águilas de sable volantes" [@moreno].
+
+![Escudo antiguo del mismo palacete; foto del archivo municipal posteada en Twitter por SamuelMR17](escudo-palacete-antiguo.jpeg)
+
+Este es uno de los elementos que ha cambiado desde esta foto sin fecha encontrada en Twitter, pero que podría ser de los años 20. Como se ve, el escudo es mucho más historiado, aunque tampoco lleva una corona de vizconde y no se ve con suficiente claridad para afirmar que sea de los Escoriaza.
 
 
 ## Bibliografía

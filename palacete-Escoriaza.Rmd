@@ -32,6 +32,14 @@ Comenzaremos por los elementos singulares para luego pasar a elementos que apare
 
 Se trata de ménsulas exentas, usadas como puro elemento decorativo. En la torre que hay al final de la avenida Cervantes, del mismo arquitecto, se usan de la misma forma. Como bien se indica en [@andaltura], ambos recuerdan a la Torre de los Picos de la Alhambra, tanto en el aspecto general como en el caso de estas ménsulas. En esta última sólo aparecen en uno de los lados, y además es posible que tuvieran una función original de sostén de alguna plataforma defensiva de madera, o quizás un *balcón dionisiano*, *garita* o *ladronera* eliminadas de la Torre de los Picos al perder su función defensiva.
 
+### 2: Almenas
+
+Una vez más, se trata de una copia de la Torre de los Picos, también replicada en la indicada torre de la avenida Cervantes. Tiene merlones terminados en albardilla a cuatro aguas.
+
+### 3. Aleros de madera
+
+Formando quizá parte de un artesonado en el interior, este alero de madera es una vez más similar al de la fachada de Comares; en ese caso pretende dar sombra, en este caso parece puramente decorativa.
+
 ### 4: Escudo
 
 El escudo tiene un yelmo, lo que correspondería a algún tipo de hidalguía. Y aunque no está muy claro, presenta una torre centrada. Dado que tras su construcción fue adquirido por la familia Moreno Agrela (también propietaria del palacio de los patos), duques de Agrela, es posible que sea el escudo de la familia Moreno, "una torre de gules en campo de oro, con dos águilas de sable volantes" [@moreno].

@@ -314,3 +314,5 @@ TSWLatexianTemp*
 
 # Latex
 *.pdf
+*.tex
+

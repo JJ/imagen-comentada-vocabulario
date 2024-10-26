@@ -46,7 +46,7 @@ El escudo tiene un yelmo, lo que correspondería a algún tipo de hidalguía. Y 
 
 ![Escudo antiguo del mismo palacete; foto del archivo municipal posteada en Twitter por SamuelMR17](escudo-palacete-antiguo.jpeg)
 
-Este es uno de los elementos que ha cambiado desde esta foto sin fecha encontrada en Twitter, pero que podría ser de los años 20. Como se ve, el escudo es mucho más historiado, aunque tampoco lleva una corona de vizconde y no se ve con suficiente claridad para afirmar que sea de los Escoriaza.
+Este es uno de los elementos que ha cambiado desde esta foto sin fecha encontrada en Twitter, extraída del archivo municipal [@vistas:granada] y tomada en 1911 durante una nevada. Como se ve, el escudo es mucho más historiado, aunque tampoco lleva una corona de vizconde y no se ve con suficiente claridad para afirmar que sea de los Escoriaza.
 
 ### 5: Ventanas con celosía
 
@@ -103,6 +103,7 @@ Aunque ya se ha mencionado, merece la pena pararse por un momento en estos eleme
 Aunque no se ve en la fotografía que acompaña a este trabajo, que muestra un simple alfiz y albanegas similar a las otras ventanas, en el original se trataba de una *chambrana* terminada en modillones en los extremos, apuntada y con una moldura también en la centro apuntado superior, como se puede apreciar en la imagen adjunta más abajo. El arco también era diferente, tratándose de un arco *deprimido* sin mucha decoración. Es posible que se cambiara para darle más uniformidad al conjunto. Este tipo de arcos deprimidos con chambranas encima son muy característicos de la arquitectura modernista en Granada y se puede ver en muchos edificios de la Gran Vía y Reyes Católicos.
 
 ![Chambranas originales del palacete](antiguas-chambranas.jpeg)
+
 ### 18: Arco peraltado
 
 Una vez más se usa un simple arco peraltado angrelado, con unas pequeñas arquivoltas decoradas con motivos geométricos. El arco termina en un pequeño modillón enrollado, o simplemente continuando el angrelado del arco más arriba. El peralte es más bajo que en el caso anterior, dando una sensación de armonía más que de esbeltez. 
@@ -122,6 +123,31 @@ A pesar de tener un aspecto clásico, este elemento no aparece en la foto antigu
 ### 22: Columna parteluz nazarí
 
 Esta columna es muy similar a la que se ha comentado en el número 6, situándose en la misma planta. Tiene dos principales diferencias con respecto a esta: llega hasta el suelo, y tiene una basa sencilla en forma de embudo típica de la arquitectura nazarí, igual a las de las columnas de la Alhambra, por ejemplo las que se encuentran en el palacio de Yusuf III.
+
+### 23: Modillones
+
+Soportando un balcón cerrado de obra, estos modillones están compuestos por dos prismas alargados y redondeados, que parecen resultar del alargamiento en horizontal de los clásicos "rollos". Parecen en este caso una estilización de los modillones de lóbulos tan característicos de la arquitectura musulmana mediterránea [@upm34252]. Comparando una vez más la foto clásica con la actual, vemos que en el original había tres lóbulos, siendo más similares a un modillón de rollos que actualmente.
+
+### 24: Balaustrada de piedra
+
+Balaustrada con decoración geométrica, que apenas se ve en la imagen, pero que parece la original. Cierra un espacio de entrada a la vivienda y otras dependencias, circundando la vivienda, el torreón, y los módulos que hay detrás de ellos, creando un espacio de balconada.
+
+En vez de columnas, se usan molduras que se entrecruzan con un efecto de celosía.
+
+### 25: Cierre de albañilería con arcos geminados y esgrafiado
+
+Este cierre, al no estar orientado hacia la calle, presenta  arcos geminados, cada uno de ellos un simple arco de herradura sin ningún tipo de decoración aparente, un pilar de parteluz, y arcos de herradura; la ventana lateral presenta también un arco de herradura terminado en modillones de rollo y un esgrafiado en la parte inferior, como el que hay debajo del biforo. El esgrafiado es de rombos blancos sobre fondo gris formando una celosía; este tipo de decoración es típico del periodo modernista, y podemos ver muchos ejemplos en el barrio de la Virgen y en los edificios de la Gran Vía.
+
+Sin embargo no se trata de un elemento original. Una vez más, la foto tomada en los años 20 nos revela un aspecto diferente:
+
+![Cierre de arcos trilobulados](cierre-antiguo.png)
+
+El cierre original tenía también un biforo con un pilar de base rectangular como parteluz, igual que ahora, pero los arcos eran polilobulados en caso de la parte ancha del cierre, y trilobulados en el caso de la parte más estrecha, pegada a la pared. La longitud de los mismos era similar, a diferencia de hoy en día, donde hay una ventana mucho más pequeña en el mismo espacio.
+
+Sobre las ventanas había una cornisa taqueada o ajedrezada que no es típica del arte nazarí sino del románico, que sostiene un pequeño tejado, en esta foto bellamente recubierto de nieve^[Las nevadas eran habituales en invierno hasta los años 60.].
+
+Pero quizá lo más interesante de esta versión original es el balcón que había sobre el cierre, con merlones y almenas en piedra, de disposición similar a las del torreón actual, pero de menor tamaño y aparentemente en ladrillo. Esta disposición se conserva 
+
 
 
 ## Bibliografía

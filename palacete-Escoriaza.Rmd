@@ -96,11 +96,12 @@ Este ventanal, sin embargo, mira al sur-sur-oeste, por lo que imaginamos que se 
 
 ### 16 Farolas y balcón de forja
 
-Aunque ya se ha mencionado, merece la pena pararse por un momento en estos elementos de forja, acompañados por otros muchos (la reja de la ventana de la planta baja, por ejemplo). Hay múltiples ejemplos de forja en hierro en la ciudad de Granada en palacetes y construcciones de esa época [@forja], llevados a cabo principalmetne por los tres talleres de forja existentes: La Catalana, La Granadina y la Fundición Castaños. Es imposible saber cuál de ellas sería la responsable de esta forja, si bien [@forja] menciona que Modesto Cendoya usó la Fundición Castaños en los balcones que diseñó para el Alhambra Palace, así que podemos suponer que fue la misma.
+Aunque ya se ha mencionado, merece la pena pararse por un momento en estos elementos de forja, acompañados por otros muchos (la reja de la ventana de la planta baja, por ejemplo). Hay múltiples ejemplos de forja en hierro en la ciudad de Granada en palacetes y construcciones de esa época [@forja], llevados a cabo principalmetne por los tres talleres de forja existentes: La Catalana, La Granadina y la Fundición Castaños. Es imposible saber cuál de ellas sería la responsable de esta forja, si bien [@forja] menciona que Modesto Cendoya usó la Fundición Castaños en los balcones que diseñó para el Alhambra Palace, así que podemos suponer que fue la misma^[Casualmente, la fundición se encontraba a menos de 200 metros del edificio, en la zona de Puente Verde, así que sería doblemente conveniente (y posible) que se tratara de la misma].
 
 ### 17: Alfiz y albanegas (antiguas chambranas)
 
 Aunque no se ve en la fotografía que acompaña a este trabajo, que muestra un simple alfiz y albanegas similar a las otras ventanas, en el original se trataba de una *chambrana* terminada en modillones en los extremos, apuntada y con una moldura también en la centro apuntado superior, como se puede apreciar en la imagen adjunta más abajo. El arco también era diferente, tratándose de un arco *deprimido* sin mucha decoración. Es posible que se cambiara para darle más uniformidad al conjunto. Este tipo de arcos deprimidos con chambranas encima son muy característicos de la arquitectura modernista en Granada y se puede ver en muchos edificios de la Gran Vía y Reyes Católicos.
+
 ![Chambranas originales del palacete](antiguas-chambranas.jpeg)
 
 ## Bibliografía

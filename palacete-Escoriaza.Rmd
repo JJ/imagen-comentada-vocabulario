@@ -1,12 +1,12 @@
 ---
-title: "Vocabulario arquitectónico del palacete de Escoriaza"
+title: "Vocabulario arquitectónico del palacete de Escoriaza o palacio del Vizconde, en el Paseo de la Bomba"
 author: "JJ Merelo"
 date: "`r Sys.Date()`"
 output: 
   pdf_document:
     keep_tex: yes
 abstract: |
-  El palacete de Escoriaza es una construcción de principios del siglo XX en estilo neonazarí, con un vocabulario tomado de la Alhambra de la que era arquitecto conservador su proyectista, Modesto Cendoya.
+  El palacete de Escoriaza es una construcción de principios del siglo XX en estilo neonazarí, con un vocabulario tomado de la Alhambra y de la arquitectura musulmana principalmente andalusí. Su arquitecto, Modesto Cendoya, fue posteriormente conservador de la Alhambra, y tiene otros grandes ejemplos de arquitectura regionalista y modernista en la ciudad de Granada.
 bibliography: escoriaza.bib
 ---
 
@@ -150,7 +150,17 @@ Sobre las ventanas había una cornisa taqueada o ajedrezada que no es típica de
 
 Pero quizá lo más interesante de esta versión original es el balcón que había sobre el cierre, con merlones y almenas en piedra, de disposición similar a las del torreón actual, pero de menor tamaño y aparentemente en ladrillo. Esta disposición se conserva en la actualidad, aunque se ha uniformado la pintura con el resto del torreón; tampoco se ve bien en la imagen actual, puesto que está detrás de un árbol que lo tapa.
 
-### 26: Cornisa con decoración nazarí 
+### 26: Cornisa con decoración nazarí
+
+La cornisa, en tres bandas, está decorada de forma difícil de determinar. Esta cornisa no tiene solución de continuidad con los arcos sobre el balcón, estando situada justo por encima del alfiz de los mismos, y extiende el estilo y decoración a toda la fachada del cuerpo principal del edificio.
+
+La dos bandas superiores parecen ligeramente adelantadas con respecto a la principal, la última continuándose con el voladizo de madera que se ha indicado con el número 3.
+
+## Conclusiones
+
+Examinando este edificio, uno puede ciertamente ver las polémicas que han acompañado al arquitecto original [@lopera1977decision]. Aunque adopta un estilo modernista neo-nazarí relativamente coherente (con elementos también simplemente neo-islamistas) la acumulación de patrones y materiales muy diferents podrían conducirnos a calificar de pastiche el resultado final si se examina con cierto detenimiento, como se ha hecho^[Desde luego, no hace más fácil la labor de este que escribe, que no sabía donde se metía cuando su mujer le sugirió que usara este edificio para el trabajo.].
+
+Sin embargo, el resultado en conjunto no resulta desagradable a la vista, y sobre todo es un diccionario casi completo del vocabulario arquitectónico usado en el arte musulmán en España, que por sí solo puede cubrir las necesidades de un estudiante de historia del arte que se acerque al mismo.
 
 
 

@@ -54,7 +54,7 @@ Son ventanas simples en arco de medio punto, pero con unas celosías que recuerd
 
 ### 6: Columna con capitel nazarí
 
-Esta columna actúa como parteluz del ventanal que veremos a continuación, con el número 7. Usa un capitel nazarí, compuesto por un baquetón, collarín decorado con hojas de palmera y ábaco cuadrado, aparentemente decorado con motivos vegetales. En este caso no tiene basa, y se apoya sobre una balaustrada decorada, aparentemente, con ladrillos exentos y encalados. No hemos encontrado ningún tipo de referencia a este tipo de elemento constructivo, aunque podría ser modernista.
+Esta columna actúa como parteluz del ventanal que veremos a continuación, con el número 7. Usa un capitel nazarí, compuesto por un baquetón, collarín decorado con hojas de palmera y capitel cuadrado, aparentemente decorado con motivos vegetales. En este caso no tiene basa, y se apoya sobre una balaustrada decorada, aparentemente, con ladrillos exentos y encalados. No hemos encontrado ningún tipo de referencia a este tipo de elemento constructivo, aunque podría ser modernista.
 
 ### 7: Ventanal partido con arcos peraltados
 
@@ -124,6 +124,8 @@ A pesar de tener un aspecto clásico, este elemento no aparece en la foto antigu
 
 Esta columna es muy similar a la que se ha comentado en el número 6, situándose en la misma planta. Tiene dos principales diferencias con respecto a esta: llega hasta el suelo, y tiene una basa sencilla en forma de embudo típica de la arquitectura nazarí, igual a las de las columnas de la Alhambra, por ejemplo las que se encuentran en el palacio de Yusuf III.
 
+El capitel también presenta un *equino* de esquinas curvadas, con un ábaco prácticamente plano; el collarino está decorado con hojas de palmera, como en el otro caso, y el capitel es cuadrado con una decoración que parece un arco. 
+
 ### 23: Modillones
 
 Soportando un balcón cerrado de obra, estos modillones están compuestos por dos prismas alargados y redondeados, que parecen resultar del alargamiento en horizontal de los clásicos "rollos". Parecen en este caso una estilización de los modillones de lóbulos tan característicos de la arquitectura musulmana mediterránea [@upm34252]. Comparando una vez más la foto clásica con la actual, vemos que en el original había tres lóbulos, siendo más similares a un modillón de rollos que actualmente.
@@ -146,7 +148,9 @@ El cierre original tenía también un biforo con un pilar de base rectangular co
 
 Sobre las ventanas había una cornisa taqueada o ajedrezada que no es típica del arte nazarí sino del románico, que sostiene un pequeño tejado, en esta foto bellamente recubierto de nieve^[Las nevadas eran habituales en invierno hasta los años 60.].
 
-Pero quizá lo más interesante de esta versión original es el balcón que había sobre el cierre, con merlones y almenas en piedra, de disposición similar a las del torreón actual, pero de menor tamaño y aparentemente en ladrillo. Esta disposición se conserva 
+Pero quizá lo más interesante de esta versión original es el balcón que había sobre el cierre, con merlones y almenas en piedra, de disposición similar a las del torreón actual, pero de menor tamaño y aparentemente en ladrillo. Esta disposición se conserva en la actualidad, aunque se ha uniformado la pintura con el resto del torreón; tampoco se ve bien en la imagen actual, puesto que está detrás de un árbol que lo tapa.
+
+### 26: Cornisa con decoración nazarí 
 
 
 

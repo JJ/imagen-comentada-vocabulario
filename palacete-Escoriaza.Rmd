@@ -8,6 +8,7 @@ output:
 abstract: |
   El palacete de Escoriaza es una construcción de principios del siglo XX en estilo neonazarí, con un vocabulario tomado de la Alhambra y de la arquitectura musulmana principalmente andalusí. Su arquitecto, Modesto Cendoya, fue posteriormente conservador de la Alhambra, y tiene otros grandes ejemplos de arquitectura regionalista y modernista en la ciudad de Granada.
 bibliography: escoriaza.bib
+biblio-style: apalike
 ---
 
 ![El palacete del Vizconde, en el Paseo del Salón. Foto propia](palacete-escoriaza-vertical-números.jpg)

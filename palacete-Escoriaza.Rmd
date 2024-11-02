@@ -18,6 +18,8 @@ biblio-style: apalike
 
 ## Introducción
 
+> También disponible [en PDF](https://github.com/JJ/imagen-comentada-vocabulario/releases/download/v1.0/palacete-Escoriaza.pdf).
+
 Los comienzos del siglo XX en Granada se caracterizaron, en lo económico, por la gran expansión económica debida sobre todo al cultivo de la caña de azúcar y la implantación de la industria azucarera e infraestructura eléctrica y de transporte relacionada con la misma [@granadaXX] y en lo político por el *lachiquismo* [@osuna2015protesta], caciquismo organizado y dirigido desde Juan Ramón Lachica Mingo, enriquecido precisamente con el cultivo del azúcar y perteneciente (nominalmente) al partido liberal.
 
 En lo primero debemos enmarcar la llegada a Granada de Nicolás de Escoriaza y Fabro [@escoriaza], que en 1903 funda los Tranvías Eléctricos de Granada [@martinez2000gregorio] que comienzan a funcionar el año siguiente. Escoriaza, nombrado vizconde en 1919 (de donde sale el nombre de "Palacio del Vizconde" que también tiene este edificio) tiene negocios con diferentes empresas belgas y suizas, y por ello lo nombran comisario del pabellón español de la exposición universal de Bruselas en 1910.
